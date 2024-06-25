@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Pick a color",
+  "description": "Color Picker Estension",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "src/color picker.png"
+  }
+}
